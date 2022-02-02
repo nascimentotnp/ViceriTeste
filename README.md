@@ -4,7 +4,7 @@ Projeto criado para realizar gestão de tarefas (TO-DO) através de uma API Rest
 Será possivel, realizar inclusão, exclusão, alteração ou listagem de todos as tarefas mantidas pelo usuário locado no sistema. Sendo possivel ainda, classifica-las e filtra-las
 pela sua prioridade.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas:
 
 ``` 
 Java 11
